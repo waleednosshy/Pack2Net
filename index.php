@@ -172,14 +172,14 @@
                         <div class="p-5 section-yellow">
                             <h4>Strategy</h4>
                             <p class="pt-4">This is where we validate your future users and define the project backbone.
-                                It consists of a working plan in which the users’ needs are met with a solution that
+                                It consists of a working plan in which the users' needs are met with a solution that
                                 fulfils the business goals</p>
                         </div>
                     </div>
                     <div class="col-lg-4 p-md-0">
                         <div class="p-5 section-light">
                             <h4>Marketing</h4>
-                            <p class="pt-4 text-text">Digital marketing is the only way to stay ahead, when you’re a
+                            <p class="pt-4 text-text">Digital marketing is the only way to stay ahead, when you're a
                                 business owner the online world can seem intimidating, we provides your business a
                                 successful digital planning throw our marketing team</p>
                         </div>
@@ -187,7 +187,7 @@
                     <div class="col-lg-4 p-md-0">
                         <div class="p-5 section-blue">
                             <h4>Technology</h4>
-                            <p class="pt-4">The first people you’ll meet are our technical experts. They will dig into
+                            <p class="pt-4">The first people you'll meet are our technical experts. They will dig into
                                 your business, discuss the work scope, challenges and consult on the most appropriate
                                 technological solutions</p>
                         </div>
@@ -213,8 +213,10 @@
 
                     <div class="col-lg-6">
                         <div class="section-content-v">
-                            <img src="https://pack2net.com/assets/img/images/home-04.webp"
-                                class="img-fluid mt-5 mt-lg-0" alt="Being Smart Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-04.webp" width="600" height="298"
+                                class="img-fluid mt-5 mt-lg-0"
+                                srcset="https://pack2net.com/assets/img/images/home-04.webp 600w, https://pack2net.com/assets/img/images/home-04-s.webp 400w"
+                                sizes="(min-width: 992px) 600px, 50vw" alt="Being Smart Pack2Net" />
                         </div>
                     </div>
 
@@ -229,13 +231,15 @@
 
                     <div class="col-lg-4 mb-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-06.webp" class="img-fluid"
-                                alt="Keep things in proportion Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-06.webp" width="700" height="1050"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-06.webp 400w, https://pack2net.com/assets/img/images/home-06-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="Keep things in proportion Pack2Net" />
                             <div class="overlay-02 overlay-blue"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
                                     <h6 class="text-white font-size-1-5">Keep things in proportion</h6>
-                                    <p class="text-white mt-3">Not too big, not too small. We’are motivated by doing
+                                    <p class="text-white mt-3">Not too big, not too small. We'are motivated by doing
                                         good work, not growing our business</p>
                                 </div>
                             </div>
@@ -244,13 +248,15 @@
 
                     <div class="col-lg-4 mb-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-07.webp" class="img-fluid"
-                                alt="Put people first Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-07.webp" width="700" height="400"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-07.webp 400w, https://pack2net.com/assets/img/images/home-07-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="Put people first Pack2Net" />
                             <div class="overlay-02 overlay-dark"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
                                     <h6 class="text-white font-size-1-5">Put people first</h6>
-                                    <p class="text-white mt-3">It’s our design philosophy, and the way we approach our
+                                    <p class="text-white mt-3">It's our design philosophy, and the way we approach our
                                         work, our team and our clients</p>
                                 </div>
                             </div>
@@ -267,8 +273,10 @@
 
                     <div class="col-lg-4 mb-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-08.webp" class="img-fluid"
-                                alt="Graphic Design Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-08.webp" width="700" height="1050"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-08.webp 400w, https://pack2net.com/assets/img/images/home-08-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="Graphic Design Pack2Net" />
                             <div class="overlay-02 overlay-yellow"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
@@ -282,13 +290,15 @@
 
                     <div class="col-lg-4 mb-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-09.webp" class="img-fluid"
-                                alt="See the bigger picture Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-09.webp" width="700" height="400"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-09.webp 400w, https://pack2net.com/assets/img/images/home-09-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="See the bigger picture Pack2Net" />
                             <div class="overlay-02 overlay-dark"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
                                     <h6 class="text-white font-size-1-5">See the bigger picture</h6>
-                                    <p class="text-white mt-3">Understanding where you’re coming from helps us to go in
+                                    <p class="text-white mt-3">Understanding where you're coming from helps us to go in
                                         the right direction together</p>
                                 </div>
                             </div>
@@ -297,8 +307,10 @@
 
                     <div class="col-lg-4 mb-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-10.webp" class="img-fluid"
-                                alt="Think globally Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-10.webp" width="700" height="400"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-10.webp 400w, https://pack2net.com/assets/img/images/home-10-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="Think globally Pack2Net" />
                             <div class="overlay-02 overlay-yellow"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
@@ -312,14 +324,16 @@
 
                     <div class="col-lg-4">
                         <div class="img-overlay-02">
-                            <img src="https://pack2net.com/assets/img/images/home-11.webp" class="img-fluid"
-                                alt="Never stop learning Pack2Net" />
+                            <img src="https://pack2net.com/assets/img/images/home-11.webp" width="700" height="400"
+                                class="img-fluid"
+                                srcset="https://pack2net.com/assets/img/images/home-11.webp 400w, https://pack2net.com/assets/img/images/home-11-m.webp 700w"
+                                sizes="(min-width: 992px) 400px, 50vw" alt="Never stop learning Pack2Net" />
                             <div class="overlay-02 overlay-blue"></div>
                             <div class="section-content-v-02">
                                 <div class="text-center overlay-text-02">
                                     <h6 class="text-white font-size-1-5">Never stop learning</h6>
-                                    <p class="text-white mt-3">Technology moves fast. Design moves on. So it’s important
-                                        to keep learning. It’s fun too</p>
+                                    <p class="text-white mt-3">Technology moves fast. Design moves on. So it's important
+                                        to keep learning. It's fun too</p>
                                 </div>
                             </div>
                         </div>

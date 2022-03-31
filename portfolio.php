@@ -100,7 +100,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-15.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-15-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-15.webp"
                                                     class="img-fluid" alt="Magic Pharma" />
@@ -119,7 +119,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-04.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-04-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-04.webp"
                                                     class="img-fluid" alt="Egipto Tours" />
@@ -139,7 +139,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-03.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-03-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-03.webp"
                                                     class="img-fluid" alt="Havana Hotel" />
@@ -159,7 +159,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-07.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-07-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-07.webp"
                                                     class="img-fluid" alt="Deraya Insurance" />
@@ -178,7 +178,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-08.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-08-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-08.webp"
                                                     class="img-fluid" alt="Freight Anchor" />
@@ -198,7 +198,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-01.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-01-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-01.webp"
                                                     class="img-fluid" alt="Festival Travel" />
@@ -217,7 +217,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-05.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-05-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-05.webp"
                                                     class="img-fluid" alt="Aswan TailorMade" />
@@ -237,7 +237,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-11.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-11-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-11.webp"
                                                     class="img-fluid" alt="Tagmeel Clinic" />
@@ -256,7 +256,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-09.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-09-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-09.webp"
                                                     class="img-fluid" alt="National Theological College" />
@@ -276,7 +276,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-02.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-02-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-02.webp"
                                                     class="img-fluid" alt="Egypt Top View" />
@@ -296,7 +296,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-06.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-06-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-06.webp"
                                                     class="img-fluid" alt="Swiss Inn Hotel" />
@@ -316,7 +316,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1 port2">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-13.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-13-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-13.webp"
                                                     class="img-fluid" alt="Alegria Tours" />
@@ -336,7 +336,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-10.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-10-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-10.webp"
                                                     class="img-fluid" alt="Study Early Church" />
@@ -356,7 +356,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-12.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-12-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-12.webp"
                                                     class="img-fluid" alt="Dar Al Maraa" />
@@ -375,7 +375,7 @@
                                 <div class="col-lg-4 col-md-6 px-lg-4 all port1">
                                     <div class="port-img">
                                         <a class="image-popup"
-                                            href="https://pack2net.com/assets/img/images/portfolio-14.webp">
+                                            href="https://pack2net.com/assets/img/images/portfolio-14-l.webp">
                                             <div class="img-overlay">
                                                 <img src="https://pack2net.com/assets/img/images/portfolio-14.webp"
                                                     class="img-fluid" alt="Osiris Hotel" />
