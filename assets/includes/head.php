@@ -18,7 +18,6 @@
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Oswald:wght@500&display=swap" />
     <link rel="stylesheet" href="assets/plugins/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/plugins/animate/animate.min.css" />
     <link rel="stylesheet" href="assets/plugins/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/plugins/magnific-isotope/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/plugins/sweetalert/sweetalert.css" />
